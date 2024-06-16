@@ -1,2 +1,2 @@
-# example
-example for deploy
+# Tic-Tac-Toe game
+1st repo
